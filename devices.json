@@ -3,7 +3,7 @@
     {
       "DEVICE_CODENAME": "barbet",
       "BLISSROMS_BRANCH": "universe",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
