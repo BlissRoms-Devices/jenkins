@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "DEVICE_CODENAME": "barbet",
+      "BLISSROMS_BRANCH": "universe",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
+      "DEVICE_CODENAME": "obiwan",
+      "BLISSROMS_BRANCH": "universe",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
+    }
+  ]
+}
