@@ -12,6 +12,12 @@
       "BLISSROMS_BRANCH": "universe",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "mojito",
+      "BLISSROMS_BRANCH": "universe",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
     }
   ]
 }
