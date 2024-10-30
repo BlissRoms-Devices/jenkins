@@ -8,6 +8,13 @@
       "RECOVERY_IMAGES": "boot.img,dtbo.img,vendor_boot.img"
     },
     {
+      "DEVICE_CODENAME": "shiba",
+      "BLISSROMS_BRANCH": "universe",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "user",
+      "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
+    },
+    {
       "DEVICE_CODENAME": "obiwan",
       "BLISSROMS_BRANCH": "universe",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
