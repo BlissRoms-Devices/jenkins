@@ -26,6 +26,16 @@
       "DEVICE_CODENAME": "bladerunner",
       "BLISSROMS_BUILD_VARIANTS": ["gapps"],
       "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "bluejay",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "Spacewar",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
     }
   ]
 }
