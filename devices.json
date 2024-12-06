@@ -64,7 +64,7 @@
     },
     {
       "DEVICE_CODENAME": "a70q",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     }
   ]
