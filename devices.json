@@ -58,6 +58,11 @@
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
+      "DEVICE_CODENAME": "taimen",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
       "DEVICE_CODENAME": "a70q",
       "BLISSROMS_BUILD_VARIANTS": ["gapps"],
       "BLISSROMS_BUILDTYPE": "userdebug"
