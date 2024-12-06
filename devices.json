@@ -18,6 +18,11 @@
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
+      "DEVICE_CODENAME": "miatoll",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
       "DEVICE_CODENAME": "mojito",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
@@ -34,6 +39,11 @@
     },
     {
       "DEVICE_CODENAME": "Spacewar",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "peridot",
       "BLISSROMS_BUILD_VARIANTS": ["gapps"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
