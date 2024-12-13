@@ -66,6 +66,11 @@
       "DEVICE_CODENAME": "a70q",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "sky",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
     }
   ]
 }
