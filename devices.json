@@ -76,6 +76,11 @@
       "DEVICE_CODENAME": "sky",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
+      "DEVICE_CODENAME": "mi439",
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
     }
   ]
 }
