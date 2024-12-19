@@ -53,6 +53,11 @@
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
+      "DEVICE_CODENAME": "Pong",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
       "DEVICE_CODENAME": "sweet",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
