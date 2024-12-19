@@ -13,6 +13,12 @@
       "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
     },
     {
+      "DEVICE_CODENAME": "panther",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "user",
+      "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
+    },
+    {
       "DEVICE_CODENAME": "obiwan",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
