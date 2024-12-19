@@ -9,7 +9,13 @@
     {
       "DEVICE_CODENAME": "shiba",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
-      "BLISSROMS_BUILDTYPE": "user",
+      "BLISSROMS_BUILDTYPE": "userdebug",
+      "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
+    },
+    {
+      "DEVICE_CODENAME": "husky",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
     },
     {
