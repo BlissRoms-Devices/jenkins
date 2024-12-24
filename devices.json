@@ -93,6 +93,11 @@
       "DEVICE_CODENAME": "mi439",
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
+      "DEVICE_CODENAME": "alioth",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "user"
     }
   ]
 }
