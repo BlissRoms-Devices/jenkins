@@ -98,6 +98,12 @@
       "DEVICE_CODENAME": "alioth",
       "BLISSROMS_BUILD_VARIANTS": ["gapps"],
       "BLISSROMS_BUILDTYPE": "user"
+    },
+    {
+      "DEVICE_CODENAME": "lemonadep",
+      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILDTYPE": "userdebug",
+      "RECOVERY_IMAGES": "boot.img,dtbo.img,vendor_boot.img"
     }
   ]
 }
