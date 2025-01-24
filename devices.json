@@ -42,7 +42,7 @@
     {
       "DEVICE_CODENAME": "mojito",
       "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
-      "BLISSROMS_BUILDTYPE": "user"
+      "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "bladerunner",
