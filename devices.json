@@ -111,7 +111,7 @@
     },
     {
       "DEVICE_CODENAME": "lemonadep",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,vendor_boot.img"
     },
