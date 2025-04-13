@@ -2,101 +2,101 @@
   "devices": [
     {
       "DEVICE_CODENAME": "barbet",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,vendor_boot.img"
     },
     {
       "DEVICE_CODENAME": "shiba",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
     },
     {
       "DEVICE_CODENAME": "husky",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
     },
     {
       "DEVICE_CODENAME": "panther",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user",
       "RECOVERY_IMAGES": "boot.img,dtbo.img,init_boot.img,vendor_boot.img,vendor_kernel_boot.img,vbmeta.img"
     },
     {
       "DEVICE_CODENAME": "obiwan",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "I001D",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "AI2202",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "miatoll",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "mojito",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
       "DEVICE_CODENAME": "bladerunner",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "bluejay",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "Spacewar",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "peridot",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "phoenix",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "Pong",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
       "DEVICE_CODENAME": "sweet",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "taimen",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
       "DEVICE_CODENAME": "a70q",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
       "DEVICE_CODENAME": "sky",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps", "vanilla"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "DEVICE_CODENAME": "alioth",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "user"
     },
     {
@@ -123,13 +123,13 @@
     },
     {
       "DEVICE_CODENAME": "veux",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "boot.img,vendor_boot.img"
     },
     {
       "DEVICE_CODENAME": "gts4lvwifi",
-      "BLISSROMS_BUILD_VARIANTS": ["gapps"],
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "recovery.img"
     }
