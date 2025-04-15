@@ -27,7 +27,7 @@
     {
       "DEVICE_CODENAME": "obiwan",
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
-      "BLISSROMS_BUILDTYPE": "userdebug"
+      "BLISSROMS_BUILDTYPE": "user"
     },
     {
       "DEVICE_CODENAME": "I001D",
