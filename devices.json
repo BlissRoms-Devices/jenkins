@@ -132,6 +132,11 @@
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug",
       "RECOVERY_IMAGES": "recovery.img"
+    },
+    {
+      "DEVICE_CODENAME": "Z01R",
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
     }
   ]
 }
