@@ -124,7 +124,7 @@
     {
       "DEVICE_CODENAME": "veux",
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
-      "BLISSROMS_BUILDTYPE": "userdebug",
+      "BLISSROMS_BUILDTYPE": "user",
       "RECOVERY_IMAGES": "boot.img,vendor_boot.img"
     },
     {
