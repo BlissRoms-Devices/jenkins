@@ -137,6 +137,11 @@
       "DEVICE_CODENAME": "Z01R",
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
+    },
+    {
+      "DEVICE_CODENAME": "fogo",
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
+      "BLISSROMS_BUILDTYPE": "userdebug"
     }
   ]
 }
