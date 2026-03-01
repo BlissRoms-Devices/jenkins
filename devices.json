@@ -70,6 +70,12 @@
       "BLISSROMS_BUILDTYPE": "userdebug"
     },
     {
+      "DEVICE_CODENAME": "onyx",
+      "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
+      "BLISSROMS_BUILDTYPE": "user"
+      "RECOVERY_IMAGES": "recovery.img,vendor_boot.img,init_boot.img"
+    },
+    {
       "DEVICE_CODENAME": "phoenix",
       "BLISSROMS_BUILD_VARIANTS": ["vanilla"],
       "BLISSROMS_BUILDTYPE": "userdebug"
